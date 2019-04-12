@@ -15,6 +15,7 @@ Repositorio para la materia arquitectura web dictada en la Universidad de Palerm
 
 | HTTP          |  Ruta                          | Descripción                                                                      |
 | ------------- |--------------------------------| ---------------------------------------------------------------------------------|
+| `GET`         | `/players/`                    | Obtener listado de jugadores                                                     |
 | `GET`         | `/players/{playerId}`          | Obtener información básica sobre un jugador por su ID                            |
 | `GET`         | `/players/{playerId}/gamelog`  | Obtener el historial de partidas jugadas durante los ultimos 30 días             |
 | `GET`         | `/players/{playerId}/fighters` | Obtener informacion de los personajes con los que el usuario ha jugador          |
