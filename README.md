@@ -15,12 +15,12 @@ Repositorio para la materia arquitectura web dictada en la Universidad de Palerm
 
 | HTTP          |  Ruta                          | Descripción                                                                      |
 | ------------- |--------------------------------| ---------------------------------------------------------------------------------|
-| `GET`         | `/players/`                    | Obtener listado de jugadores                                                     |
+| `GET`         | `/players`                     | Obtener listado de jugadores                                                     |
 | `GET`         | `/players/{playerId}`          | Obtener información básica sobre un jugador por su ID                            |
 | `GET`         | `/players/{playerId}/gamelog`  | Obtener el historial de partidas jugadas durante los ultimos 30 días             |
 | `GET`         | `/players/{playerId}/fighters` | Obtener informacion de los personajes con los que el usuario ha jugador          |
 | `GET`         | `/players/{playerId}/stats`    | Obtener las estadísticas generales del jugador                                   |
-| `POST`        | `/players/          `          | Dar de alta a un jugador                                                         |
+| `POST`        | `/players`                     | Dar de alta a un jugador                                                         |
 | `PUT`         | `/players/{playerId}`          | Modificar datos de un jugador                                                    |
 | `DELETE`      | `/players/{playerId}`          | Eliminar un jugador                                                              |
 
