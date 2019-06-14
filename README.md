@@ -50,3 +50,6 @@ Repositorio para la materia arquitectura web dictada en la Universidad de Palerm
 | `400`         | El cliente ha provisto parámetros inválidos en la petición   |
 | `404`         | No se ha encontrado el recurso solicitado por el cliente     |
 | `500`         | Error desconocido (servidor)                                 |
+
+### Postman
+https://www.getpostman.com/collections/01c037ac833d555192e5
