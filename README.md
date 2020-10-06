@@ -1,5 +1,5 @@
 # arquitectura-web
-Repositorio para la materia arquitectura web dictada en la Universidad de Palermo (UP)
+Repositorio para la materia arquitectura web dictada en la Universidad de Palermo (UP). Proyecto realizado en Express.js y utiliza MongoDB para el almacenamiento de datos.
 
 **Grupo**: (individual) xJuego (nombre a definir)
 
